@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bike Sharing Demand Prediction
 
 Predicts the number of bikes rented per hour from weather, time and calendar features. The project covers data cleaning, EDA, feature engineering, statistical checks (OLS) and a comparison of three regression models.
@@ -66,3 +67,6 @@ Run all cells from top to bottom. Make sure the CSV path in the notebook matches
 
 ## Author
 Tripti | MCA, Kurukshetra University
+=======
+# bike-sharing-demand-prediction
+>>>>>>> aa4c47d9c888970e54d7eefca8e6bc25d19d6694
